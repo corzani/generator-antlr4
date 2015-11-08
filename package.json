@@ -5,7 +5,17 @@
   "files": [
     "app"
   ],
-    "keywords": ["yeoman-generator"],
-  "repository": "",
-  "dependencies": {}
+  "repository": "corzani/generator-antlr4",
+  "author": {
+    "name": "Jacopo Corzani",
+    "email": "corzani@gmail.com",
+    "url": "https://github.com/corzani"
+  },
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0",
+    "simple-git": "~0.2.0",
+    "fs-extra": "^0.8.1"
+  }
 }

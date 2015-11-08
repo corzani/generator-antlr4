@@ -1,0 +1,10 @@
+{
+  "name": "generator-antlr4",
+  "version": "0.0.1",
+  "files": [
+    "app"
+  ],
+    "keywords": ["yeoman-generator"],
+  "repository": "",
+  "dependencies": {}
+}

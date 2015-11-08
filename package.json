@@ -1,6 +1,7 @@
 {
   "name": "generator-antlr4",
   "version": "0.0.1",
+  "description": " Antlr4 generator for Yeoman",
   "files": [
     "app"
   ],

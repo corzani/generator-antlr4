@@ -1,6 +1,6 @@
 {
   "name": "generator-antlr4",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": " Antlr4 generator for Yeoman",
   "files": [
     "app"
@@ -11,7 +11,9 @@
     "email": "corzani@gmail.com",
     "url": "https://github.com/corzani"
   },
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
     "chalk": "~0.4.0",

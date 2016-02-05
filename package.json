@@ -13,9 +13,9 @@
     "antlr4"
   ],
   "files": [
-    "generators"
+    "app"
   ],
-  "main": "generators/index.js",
+  "main": "app/index.js",
   "keywords": [
       "yeoman-generator"
     ],

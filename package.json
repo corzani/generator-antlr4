@@ -1,23 +1,26 @@
 {
-  "name": "generator-antlr4",
-  "version": "1.0.0",
-  "description": " Antlr4 generator for Yeoman",
-  "files": [
-    "app"
-  ],
-  "repository": "corzani/generator-antlr4",
+  "name": "generator-antlr-4",
+  "version": "1.0.1",
+  "description": "Antlr4 generator for Yeoman",
+  "homepage": "",
   "author": {
     "name": "Jacopo Corzani",
     "email": "corzani@gmail.com",
     "url": "https://github.com/corzani"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "antlr4"
   ],
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+      "yeoman-generator"
+    ],
   "dependencies": {
-    "yeoman-generator": "~0.16.0",
-    "chalk": "~0.4.0",
-    "simple-git": "~0.2.0",
-    "fs-extra": "^0.8.1"
+    "yeoman-generator": "^0.20.2",
+    "chalk": "~0.4.0"
   }
 }

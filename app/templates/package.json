@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "antlr4-project",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "^0.4.5",

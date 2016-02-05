@@ -1,5 +1,5 @@
 {
-  "name": "generator-antlr-4",
+  "name": "generator-antlr4",
   "version": "1.0.3",
   "description": "Antlr4 generator for Yeoman",
   "homepage": "",

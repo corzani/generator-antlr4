@@ -19,5 +19,6 @@
   "dependencies": {
     "yeoman-generator": "^0.20.2",
     "chalk": "~0.4.0"
-  }
+  },
+  "license": "BSD"
 }

@@ -8,6 +8,7 @@
     "email": "corzani@gmail.com",
     "url": "https://github.com/corzani"
   },
+  "repository": "corzani/generator-antlr4",
   "keywords": [
     "yeoman-generator"
   ],

@@ -4,22 +4,15 @@ var chalk = require('chalk');
 
 module.exports = yeoman.generators.Base.extend({
   prompting: function () {
-
-    // Have Yeoman greet the user.
-    this.log(
-      'Welcome to the doozie ' + chalk.red('generator-antlr-4') + ' generator!'
-    );
-
+    this.log('Welcome to ' + chalk.red('generator-antlr4') + ' generator!');
   },
-
   writing: function () {
     this.fs.copy(
       this.templatePath('**/*'),
       this.destinationPath('./')
     );
   },
-
   install: function () {
-    this.installDependencies();
+    this.installDependencies({bower: false});
   }
 });

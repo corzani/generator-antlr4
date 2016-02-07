@@ -2,7 +2,8 @@
   "name": "antlr4-project",
   "version": "0.0.1",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-antlr4": "^0.1.5"
+    "antlr4": "^4.5.2",
+    "antlr4-webpack-plugin": "^0.0.1",
+    "webpack": "^1.12.13"
   }
 }

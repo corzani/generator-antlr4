@@ -1,6 +1,6 @@
 {
   "name": "generator-antlr4",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Antlr4 generator for Yeoman",
   "homepage": "",
   "author": {

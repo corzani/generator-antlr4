@@ -10,7 +10,11 @@
   },
   "repository": "corzani/generator-antlr4",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "antlr",
+    "antlr4",
+    "javascript",
+    "webpack"
   ],
   "files": [
     "app"

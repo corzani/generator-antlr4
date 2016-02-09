@@ -3,7 +3,7 @@
 
 ```sh
 npm install
-npm install -g webpack-cli
+npm install -g webpack
 ```
 
 # Code generation

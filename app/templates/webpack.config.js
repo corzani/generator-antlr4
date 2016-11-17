@@ -46,7 +46,7 @@ module.exports = {
         ],
     resolve: {
         alias: {
-            'antlr4/index': '../../node_modules/antlr4/index.js'
+            'antlr4/index': '../node_modules/antlr4/index.js'
         },
         modulesDirectories: [
             './node_modules'
